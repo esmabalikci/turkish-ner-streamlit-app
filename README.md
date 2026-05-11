@@ -27,8 +27,6 @@ savasy/bert-base-turkish-ner-cased
 - `app.py` → Streamlit kullanıcı arayüzü
 - `train.py` → Model eğitim kodu
 - `data.json` → Eğitim veri seti
-- `README.txt` → Eksik model dosyaları hakkında bilgi
-
 ## Kurulum
 
 Gerekli kütüphaneleri yükleyin:
