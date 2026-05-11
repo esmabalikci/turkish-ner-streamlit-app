@@ -1,0 +1,26 @@
+[
+  {
+    "tokens": ["Mehmet", "Ankara", "Hacettepe", "Üniversitesi"],
+    "ner_tags": ["KISI", "YER", "KURUM", "KURUM"]
+  },
+  {
+    "tokens": ["Ali", "İstanbul", "Google", "Türkiye"],
+    "ner_tags": ["KISI", "YER", "KURUM", "YER"]
+  },
+  {
+    "tokens": ["Ayşe", "İzmir", "Microsoft", "Türkiye"],
+    "ner_tags": ["KISI", "YER", "KURUM", "YER"]
+  },
+  {
+    "tokens": ["Ahmet", "Bursa", "Koç", "Holding"],
+    "ner_tags": ["KISI", "YER", "KURUM", "KURUM"]
+  },
+  {
+    "tokens": ["Zeynep", "Antalya", "Sabancı", "Üniversitesi"],
+    "ner_tags": ["KISI", "YER", "KURUM", "KURUM"]
+  },
+  {
+    "tokens": ["Can", "Trabzon", "Türk", "Telekom"],
+    "ner_tags": ["KISI", "YER", "KURUM", "KURUM"]
+  }
+]
